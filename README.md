@@ -116,7 +116,7 @@ spring.jpa.show-sql=true
   </table>
 
   <h2>📸 Screenshots</h2>
-  <p>Add your Postman or UI screenshots here.</p>
+  <p></p>
 
   <h2>🧑‍💻 Author</h2>
   <p><a href="https://github.com/yourusername">Devendra Dhaked</a></p>
